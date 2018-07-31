@@ -38,4 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 ### Полезные ссылки
-[Link](https://github.com/Kabowyad/personal-wiki/blob/master/links/links) вот тут у нас полезные ссылки
+[вот тут у нас полезные ссылки](https://github.com/Kabowyad/personal-wiki/blob/master/links/links)
